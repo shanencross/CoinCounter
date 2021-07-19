@@ -1,8 +1,8 @@
-# _{Application Name}_
+# Coin Counter
 
 #### _{Brief description of application}_
 
-#### By _**{List of contributors}**_
+#### By Shanen Cross and Sofia Acosta
 
 ## Technologies Used
 
@@ -35,4 +35,4 @@ None.
 
 [MIT](LICENSE)
 
-Copyright (c) 2021 Shanen Cross
+Copyright (c) 2021 Shanen Cross and Sofia Acosta
